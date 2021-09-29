@@ -1,5 +1,3 @@
-//Aleksandr Kremlev
-
 package bullscows;
 
 import java.util.Scanner;
