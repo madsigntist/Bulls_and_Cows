@@ -1,0 +1,27 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Person {
+
+    }
+
+    class Employee {
+
+    }
+
+    class Doctor {
+
+    }
+
+    class Patient {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8309#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 29 Dec 2020 23:25:20 UTC
+record: -1
